@@ -1,0 +1,9 @@
+Renewable Energy and Solar Power
+
+Solar photovoltaic panels convert sunlight into electricity using semiconductor materials. When sunlight reaches a photovoltaic cell, photons transfer energy to electrons in the semiconductor. The movement of these electrons creates direct current electricity. An inverter converts this direct current into alternating current, which is used by most homes and businesses.
+
+Solar power systems can reduce dependence on fossil fuels and lower operational greenhouse gas emissions. Their electricity production depends on sunlight, weather, panel orientation, shading, and system maintenance. Batteries can store excess electricity generated during sunny periods and provide power when solar production is low or when the grid is unavailable.
+
+Wind turbines generate electricity by converting the kinetic energy of moving air into rotational motion. The rotating blades drive a generator. Wind farms can be located on land or offshore. Offshore wind resources are often stronger and more consistent, but construction and maintenance can be more complex and expensive.
+
+Hydropower uses flowing or falling water to turn turbines connected to generators. Reservoir hydropower can provide dispatchable electricity, while run-of-river projects depend more directly on river flow. Renewable energy planning often combines solar, wind, hydropower, storage, and transmission to improve reliability.

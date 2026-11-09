@@ -1,0 +1,26 @@
+[
+  {
+    "query": "How do solar cells turn sunlight into usable electricity?",
+    "relevant_sources": ["renewable_energy.txt"]
+  },
+  {
+    "query": "What are common warning signs of a fraudulent email asking for credentials?",
+    "relevant_sources": ["cybersecurity_basics.txt"]
+  },
+  {
+    "query": "Explain the difference between supervised and unsupervised learning.",
+    "relevant_sources": ["machine_learning.txt"]
+  },
+  {
+    "query": "How does a battery help when solar panels are not producing power?",
+    "relevant_sources": ["renewable_energy.txt"]
+  },
+  {
+    "query": "What do precision and recall measure when evaluating a classifier?",
+    "relevant_sources": ["machine_learning.txt"]
+  },
+  {
+    "query": "Why is multi-factor authentication useful after a password is stolen?",
+    "relevant_sources": ["cybersecurity_basics.txt"]
+  }
+]

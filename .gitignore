@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+.gradio/
+data/chroma/
+data/documents/*
+!data/documents/*.txt
+!data/documents/README.md

@@ -1,0 +1,9 @@
+Introduction to Machine Learning
+
+Machine learning is a branch of artificial intelligence in which computer systems learn patterns from data to make predictions or decisions. In supervised learning, a model is trained using labeled examples. Classification predicts discrete categories, such as whether an email is spam. Regression predicts continuous values, such as a house price.
+
+Unsupervised learning uses data without target labels. Clustering groups similar examples, while dimensionality reduction represents data with fewer variables. These methods can support customer segmentation, anomaly detection, exploration, and visualization. Reinforcement learning is a different approach in which an agent learns to choose actions by receiving rewards or penalties from an environment.
+
+A typical machine learning workflow includes defining the problem, collecting data, cleaning and exploring the data, creating features, splitting examples into training and test sets, training candidate models, tuning hyperparameters, and evaluating performance. Data leakage occurs when information unavailable at prediction time accidentally influences training or evaluation, leading to overly optimistic results.
+
+Accuracy is the proportion of predictions that are correct. Precision measures how many predicted positive cases are truly positive. Recall measures how many actual positive cases the model successfully finds. The F1 score is the harmonic mean of precision and recall. The appropriate metric depends on the problem and the relative cost of false positives and false negatives.

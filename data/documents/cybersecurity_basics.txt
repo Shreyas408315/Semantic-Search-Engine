@@ -1,0 +1,9 @@
+Cybersecurity Fundamentals
+
+Cybersecurity is the practice of protecting computers, networks, applications, and information from unauthorized access, disruption, damage, or theft. Common security goals are confidentiality, integrity, and availability. Confidentiality means information is accessible only to authorized people. Integrity means information remains accurate and unaltered. Availability means systems and data are accessible when needed.
+
+Phishing is a social engineering attack in which an attacker sends a deceptive message to persuade someone to reveal credentials, open a malicious attachment, or visit a fraudulent website. Warning signs can include unexpected urgency, mismatched sender addresses, suspicious links, unusual payment requests, and spelling or formatting inconsistencies. Multi-factor authentication can reduce the impact of stolen passwords.
+
+Encryption transforms readable information into ciphertext using a cryptographic algorithm and a key. Symmetric encryption uses the same secret key to encrypt and decrypt data. Asymmetric encryption uses a public key and a private key. Encryption helps protect data in transit and at rest, but effective key management is essential.
+
+A firewall monitors and controls network traffic according to a security policy. Endpoint protection helps detect and block malicious activity on laptops, servers, and other devices. Regular software updates, least-privilege access, secure backups, employee awareness, and incident response planning are important parts of a defense-in-depth strategy.
